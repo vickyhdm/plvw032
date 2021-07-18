@@ -1,0 +1,76 @@
+id,name,type,birth,age,position,country
+JL,Juliet Lohuis,0,1996,3,1,1
+MT,Mira Todorova,0,1994,4,1,2
+ET,Eline Timmermann,0,1998,2,1,1
+HK,Hannah Kohn,0,2003,1,2,3
+IV,Ilka Van de Vyver,0,1993,4,2,4
+JN,Julia Nowicka,0,1998,2,2,5
+SL,Simone Lee,0,1996,0,3,6
+MP,Maria Segura Palleres,0,1992,1,3,7
+HJ,Hester Jasper,0,2001,1,3,1
+HD,Helena Dornheim,0,2004,1,3,3
+KR,Krystal Rivers,0,1994,4,4,6
+LB,Lara Berger,0,2001,1,4,3
+RK,Roosa Koskelo,0,1991,4,5,8
+LG,Lena Grundt,0,2004,1,5,3
+SU,Set Up,1,,,,
+TTP,Talent Team Papendal,1,,,,
+EA ,Eurosped Almelo,1,,,,
+CA,Coolen Alterno,1,,,,
+USC,USC Muenster,1,,,,
+RC ,RC Cannes ,1,,,,
+VLC,Volero Le Cannet ,1,,,,
+VZ,Volero Zuerich,1,,,,
+LCV,Le Cannet Volleyball ,1,,,,
+SAP,SmAesch Pfeffingen,1,,,,
+VCM,VC Maritza,1,,,,
+AA,Alterno Apeldoorn,1,,,,
+EUT,Eurosped Twente,1,,,,
+LBA,Ladies in Black Aachen,1,,,,
+VBU,VfB Ulm,1,,,,
+OS,Olympiastuetzpunkt Stuttgart,1,,,,
+BS,Bundesstuetzpunkt Stuttgart,1,,,,
+AK,Asterix Kieldrecht,1,,,,
+IBF,Il Bisonte Firenze,1,,,,
+CL,Calcit Ljubljana,1,,,,
+RRV,Rote Raben Vilsbiburg,1,,,,
+CSM,CSM Targoviste,1,,,,
+GB,Grot Budowlani,1,,,,
+BKS,BKS Profi Credit,1,,,,
+KS,KS Palac Bydgoszcz U20,1,,,,
+SMS,SMS PZPS Szczyrk,1,,,,
+KAF,Kurobe AquaFairies,1,,,,
+BE,Beylikduzu,1,,,,
+IVC,Imoco Volley Conegliano,1,,,,
+PSU,Penn State University,1,,,,
+BV,Banca Valsabbina Millenium Brescia,1,,,,
+DSC,Dresdner SC 1898,1,,,,
+BSB,Bosca San Bernardo Cuneo,1,,,,
+STM,Saugella Team Monza,1,,,,
+DIT,Delta Informatica Trentino,1,,,,
+GHO,Geovillage Hermaea Olbia,1,,,,
+CVB,CV Barcelona,1,,,,
+VBS,VfB Suhl Lotto Thueringen,1,,,,
+VCS,VC Sneek,1,,,,
+AMS,Allianz MTV Stuttgart II,1,,,,
+UA,University of Alabama,1,,,,
+BA,Beziers Angels,1,,,,
+MNE,Luka Bar MNE,1,,,,
+FV,FV Tuebinger Modell,1,,,,
+BSP,BSP MTV Stuttgart,1,,,,
+VCO,VCO Berlin,1,,,,
+OK,OK Nova KBM Branik,1,,,,
+LPV,LP Viesti,1,,,,
+LPK,LP Kangasala,1,,,,
+HL,Haemeenlinnan Lentopallokerho,1,,,,
+KI,Kimmo,1,,,,
+SOP,Someron Pallo,1,,,,
+EJM,Eigene Jugend MTV Stuttgart,1,,,,
+NL,Niederlande,1,,,,
+BG,Bulgarien,1,,,,
+DE,Deutschland,1,,,,
+BL,Belgien,1,,,,
+PL,Polen,1,,,,
+US,USA,1,,,,
+SP,Spanien,1,,,,
+FL,Finnland,1,,,,
