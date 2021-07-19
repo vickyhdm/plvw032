@@ -1,0 +1,15 @@
+Codebuch ,
+,
+Edge-Attribute,
+,
+id ,Kürzel der Spielerin oder des Vereins/Landes
+name ,vollständiger Name der Spielerin oder des Vereins/Landes
+type ,"Typ des Knotens; 0 = Person, 1 = Verein oder Land"
+birth,Geburtsjahr der Spielerin
+age,"Alter der Spielerin; 1 = unter 20 und 20 Jahre, 2 = 21 bis 23 Jahre, 3 = 24 bis 27 Jahre, 4 = 27 Jahre und älter"
+position,"die Position, auf der die Spielerin spielt; 1 = Mittelblock, 2 = Zuspiel, 3 = Außenangriff, 4 = Diagonal, 5 = Libera"
+country,"das Geburtsland der Spielerin; 1 = Niederlande, 2 = Bulgarien, 3 = Deutschland, 4 = Belgien, 5 = Polen, 6 = USA, 7 = Spanien, 8 = Finnland"
+,
+Node-Attribute,
+,
+relationship,"gibt die Beziehung an, in welcher die Spielerin mit dem Verein/Land steht; 1 = ehemaliges Vereinsmitglied, 2 = Heimatsland"
